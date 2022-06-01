@@ -1,0 +1,17 @@
+.box-div{
+    display: flex;
+    background-color: #02e5c587;
+    height: 400px;
+    width: 800px;
+    justify-content: center;
+    align-items: center;
+}
+
+.border-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    width: 700px;
+    height: 300px;
+}
